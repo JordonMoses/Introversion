@@ -3,6 +3,11 @@ i {
 
 }
 
+footer {
+  bottom: 0;
+  padding: 20px;
+}
+
 h4
  {
   font-family: 'Quicksand', sans-serif;
@@ -35,12 +40,20 @@ body {
 
 }
 
+.footer-center {
+  text-align: center;
+  align-content: center;
+}
+
 /* IDS */
 #navbar-title {
   font-family: 'Quicksand', sans-serif;
+  font-size: 50px;
 }
 
 #news-input {
   font-size: 15px;
   text-align: center;
 }
+
+
