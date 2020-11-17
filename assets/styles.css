@@ -29,6 +29,10 @@ body {
   margin-top: 80px;
 }
 
+.btn-floating {
+
+}
+
 .icon-titles {
   display: grid;
   align-items: center;
@@ -56,4 +60,7 @@ body {
   text-align: center;
 }
 
+#car-1 {
+
+}
 

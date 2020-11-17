@@ -100,3 +100,8 @@ $(document).ready(function(){
 $(document).ready(function(){
   $('.modal').modal();
 });
+
+$('.carousel.carousel-slider').carousel({
+  fullWidth: true,
+  indicators: true
+});
