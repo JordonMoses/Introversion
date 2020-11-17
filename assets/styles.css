@@ -61,6 +61,14 @@ body {
 }
 
 #car-1 {
+  background-image: url("/Users/blackbirdrevolt/CodingBootcamp/Projects/Introversion/assets/images/party.jpg");
+  background-position: center;
+  background-size: cover;
+}
 
+#car-2 {
+  background-image: url("/Users/blackbirdrevolt/CodingBootcamp/Projects/Introversion/assets/images/outside.jpg");
+  background-position: center;
+  background-size: cover;
 }
 
